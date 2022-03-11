@@ -1,5 +1,5 @@
-# Specification
-Write a program that can find Greatest Common Divisor (GCD) recursively.
+# Goal
+Write a program that can find the Greatest Common Divisor (GCD) of two numbers recursively.
 
 ## Input
 The program will ask user to input two numbers.
