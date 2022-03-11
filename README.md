@@ -11,7 +11,7 @@ Print the GCD of the two numbers.
 ```
 $ a.out
 $ Number 1: 125
-$ Number 2:  75
+$ Number 2: 75
 $ GCD: 25
 ```
 
